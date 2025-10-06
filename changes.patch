@@ -1,0 +1,19 @@
+commit 1b79201e475766f0b7dec2ba1e00ef71f5c90b24
+Author: Dinesh <dineshprajapati5033@gmail.com>
+Date:   Mon Oct 6 10:46:00 2025 +0530
+
+    second git cherry-pick
+
+diff --git a/dinesh.txt b/dinesh.txt
+index c9d861b..0a3ea71 100644
+--- a/dinesh.txt
++++ b/dinesh.txt
+@@ -3,4 +3,5 @@ I have over 6 years experience in magento 2.
+ I'm and adobe professional certified developer.
+ Git cherrypick 1.
+ Git cherrypick 2.
+-Git cherrypick first.
+\ No newline at end of file
++Git cherrypick first.
++Git cherrypick second.
+\ No newline at end of file
